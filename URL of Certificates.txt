@@ -11,4 +11,11 @@ Issuing Organization: Coursera
 Credential ID: 3H65VBA2CD6K
 Credential URL: https://www.coursera.org/account/accomplishments/certificate/3H65VBA2CD6K
 
+3. Using Descriptive Statistics to Analyze Data in R  (Coursera Project Network)
+
+
+Issuing Organization: Coursera
+Credential ID: RV5AYJBT5AQV
+Credential URL: https://www.coursera.org/account/accomplishments/certificate/RV5AYJBT5AQV
+
 
