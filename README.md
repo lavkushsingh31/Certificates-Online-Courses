@@ -31,5 +31,21 @@ Issuing Organization: Simplilean
 Issuing Organization: Purdue Univeristy - Simplilean (PGP)
 
 
+6. Lavkush Singh - Data Analytics Internship - Training
+
+Issuing Organization: Internship Studio
 
 
+7. Lavkush Singh - Data Analytics Internship - Internship
+
+Issuing Organization: Internship Studio
+
+
+8. Lavkush Singh - Machine Learning Internship - Training
+
+Issuing Organization: Internship Studio
+
+
+9. Lavkush Singh - Machine Learning Internship - Internship
+
+Issuing Organization: Internship Studio
